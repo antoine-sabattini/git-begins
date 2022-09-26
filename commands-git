@@ -9,3 +9,12 @@ Commandes de push:
 - git commit -m "description du commit"
 - git push origin master
 - git push
+
+Créer une nouvelle branche: 
+
+- git branch nom-de-la-branche
+
+Swticher de branche
+- git checkout <branche existante>
+
+- git checkout -b <nouvelle_branch>

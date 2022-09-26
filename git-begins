@@ -1,0 +1,10 @@
+Cloner un dépôt: 
+
+git clone [chemin ou adresse du dépôt]
+
+---------------------------------------
+Commandes de push:
+
+git add [nom du fichier]
+git commit -m "description du commit"
+git push origin master
